@@ -17,11 +17,11 @@ public class primeno
     }
        if(flag==true)
        {
-           System.out.println("prime");
+           System.out.println("odd");
        }
      else
       {
-       System.out.println(" not prime");
+       System.out.println(" even");
       }
     }
     
